@@ -24,6 +24,6 @@ Analysis and visualisation of aquired dataset about polish parliament parties ac
 4. Creating SPA for outcome visualization.
 
 ### Outcome
-
+The outcome app is available [here](https://kornelro.github.io/sma-polish-parties-tweets-analysis/).
 
 If you would like to use some of project component please take a note that bash scripts bind docker containers data to local absolute path.
